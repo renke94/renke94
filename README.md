@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Im a deep learning enthusiast.
+I'm a deep learning enthusiast.
 
 <!--
 **renke94/renke94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
